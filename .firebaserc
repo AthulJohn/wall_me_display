@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "wallme-websites"
+  },
+  "targets": {
+    "wallme-websites": {
+      "hosting": {
+        "view": [
+          "wallme"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
